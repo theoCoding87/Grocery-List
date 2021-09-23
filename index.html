@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>handmade</title>
+</head>
+<body>
+	<div class=page id="app">
+		<div class="navBar">NAME und Navigation</div>
+		<div class="content">
+			<div v-for="i in products" :key="i.productId" class="entry">
+				<p> {{i.productName}} </p>
+			</div>
+	</div>
+	<div class="footer">Copyright & Impressum</div>
+	</div>
+	<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+	<script src="https://unpkg.com/vuex"></script>
+	<script src="main.js"></script>
+  </body>
+</html>
