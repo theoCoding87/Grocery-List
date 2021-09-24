@@ -1,3 +1,4 @@
+![Screenshot from 2021-09-24 10-34-57](https://user-images.githubusercontent.com/86618664/134644605-f3e95e38-ddb8-4296-b7b0-13a7643970d6.png)
 # Grocery-List
 Little App to shift Products in Order of Supermarket-Walkthrough
 
@@ -11,4 +12,5 @@ Jeder Artikel ist verschiebbar. Das Löschen aus der Liste erfordert eine Bestä
 2. Speicherung von Objekt-Array Data mitels vuex.
 3. Hosting mittels DynDNS zur Benutzung im privaten Umfeld.
 
-![Screenshot from 2021-09-23 23-05-50](https://user-images.githubusercontent.com/86618664/134585901-46322307-9e01-4387-a7de-595775c720a6.png)
+![Screenshot from 2021-09-24 10-34-57](https://user-images.githubusercontent.com/86618664/134644645-a838093c-abe7-438c-86f0-8291c4d72727.png)
+
