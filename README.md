@@ -12,5 +12,3 @@ Jeder Artikel ist verschiebbar. Das Löschen aus der Liste erfordert eine Bestä
 2. Speicherung von Objekt-Array Data mitels vuex.
 3. Hosting mittels DynDNS zur Benutzung im privaten Umfeld.
 
-![Screenshot from 2021-09-24 10-34-57](https://user-images.githubusercontent.com/86618664/134644645-a838093c-abe7-438c-86f0-8291c4d72727.png)
-
