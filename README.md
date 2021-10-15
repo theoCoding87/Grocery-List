@@ -1,6 +1,7 @@
 ![Screenshot from 2021-09-24 10-34-57](https://user-images.githubusercontent.com/86618664/134644605-f3e95e38-ddb8-4296-b7b0-13a7643970d6.png)
 # Grocery-List
-Little App to shift Products in Order of Supermarket-Walkthrough.
+Little App, using a browser.
+purpose: shifting order Products in List to order by Order of Supermarket-Walkthrough.
 Using VueJS. Just Frontend, no data management.
 
 German Introduction:
